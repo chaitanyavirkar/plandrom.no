@@ -3,6 +3,7 @@ using namespace std;
 //**********************
 int main()
 {
+     cout<<"-------------------------------------Palindrome---------------------------------------------"<<endl;
      int n, num, digit, rev = 0;
 
      cout << "Enter a positive number: ";
